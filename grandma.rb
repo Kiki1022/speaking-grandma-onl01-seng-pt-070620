@@ -1,19 +1,3 @@
-def speak_to_grandma(input)
- if input = "I LOVE YOU GRANDMA!"
-   return "I LOVE YOU TOO PUMPKIN!"
-
- else
-   input = "Hi Nana, how are you?"
-   return "HUH?! SPEAK UP, SONNY!"
- end
-  
-  
-
-end
-
-
-
-
 
 
 
